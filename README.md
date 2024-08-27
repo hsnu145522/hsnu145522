@@ -2,7 +2,7 @@
 - 👀 My research interests are in the areas of computer vision and deep learning.
 - 🌱 I’m currently doing relating research studies in [Vision and Learning Lab](https://vllab.cs.nycu.edu.tw/), NYCU, adviced by Prof. Yen-Yu Lin.  
 - 📫 How to contact me: eric456662003@gmail.com or dchuang145522.cs09@nycu.edu.tw  
-- 🚩 [LinkedIn](www.linkedin.com/in/de-cheng-huang-a84327250)  
+- 🚩 [LinkedIn](https://www.linkedin.com/in/de-cheng-huang-a84327250/)  
 
 <!---
 hsnu145522/hsnu145522 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
