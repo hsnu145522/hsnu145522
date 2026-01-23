@@ -1,7 +1,7 @@
 - 👋 I’m @hsnu145522, a computer science student in NYCU, call me Eric.
-- 👀 My research interests are in the areas of computer vision and deep learning.
+- 👀 My research interests are in the areas of computer vision and deep learning. I'm now focusing on video diffusion models.
 - 🌱 I’m currently doing relating research studies in [Vision and Learning Lab](https://vllab.cs.nycu.edu.tw/), NYCU, adviced by Prof. Yen-Yu Lin.  
-- 📫 How to contact me: eric456662003@gmail.com or dchuang145522.cs09@nycu.edu.tw  
+- 📫 How to contact me: eric456662003@gmail.com or dchuang777.ii13@nycu.edu.tw  
 - 🚩 [LinkedIn](https://www.linkedin.com/in/de-cheng-huang-a84327250/)  
 
 <!---
